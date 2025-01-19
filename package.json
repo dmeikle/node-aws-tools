@@ -1,6 +1,6 @@
 {
   "name": "qus-node-aws-tools",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "tools for aws used in nestjs with mvc toolset",
   "main": "dist/index.js",
   "scripts": {
